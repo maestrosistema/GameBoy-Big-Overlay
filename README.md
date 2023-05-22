@@ -38,7 +38,7 @@ I'm open to suggestions!
 <b>On-Screen Display -> On-Scren Overlay:</b>
 - Display Overlay <b>"ON"</b>
 - Auto-Scale Overlay <b>"OFF"</b>
-- Overlay Preset <b>"gb_big"</b> (Select the <b>gb.cfg</b> file found in <b>gb-portrait</b> folder)
+- Overlay Preset <b>"gb_big"</b> (Select the <b>gb_big.cfg</b> file found in <b>gb-big</b> folder)
 - Overlay Opacity <b>"1.00"</b>
 - (Portrait) Overlay Scale <b>"1.000"</b>
   
