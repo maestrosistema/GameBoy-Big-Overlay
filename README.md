@@ -26,7 +26,7 @@ I'm open to suggestions!
 <b>Video:</b>
 - Enable fullscreen over notch in Android devices <b>"ON"</b>
 
-<b>Video â†’ Scaling:</b>
+<b>Video -> Scaling:</b>
 - Integer Scale <b>"OFF"</b>
 - Aspect Ratio <b>"Custom"</b>
 - Custom Aspect Ratio (X Position) <b>"0"</b>
@@ -35,14 +35,14 @@ I'm open to suggestions!
 - Custom Aspect Ratio (Height) <b>"1008 (7x)"</b>
 - Crop Overscan (Restart Required) <b>"ON"</b>
 
-<b>On-Screen Display â†’ On-Scren Overlay:</b>
+<b>On-Screen Display -> On-Scren Overlay:</b>
 - Display Overlay <b>"ON"</b>
 - Auto-Scale Overlay <b>"OFF"</b>
 - Overlay Preset <b>"gb_big"</b> (Select the <b>gb.cfg</b> file found in <b>gb-portrait</b> folder)
 - Overlay Opacity <b>"1.00"</b>
 - (Portrait) Overlay Scale <b>"1.000"</b>
   
-<b>4.</b> Go to <b>Quick Menu â†’ Ovverides</b> and <b>Save Core Overrides</b> then restart RetroArch.
+<b>4.</b> Go to <b>Quick Menu -> Ovverides</b> and <b>Save Core Overrides</b> then restart RetroArch.
  
 <b>5.</b> Play!
 
@@ -65,7 +65,7 @@ I also reccomed using a <b>Video Shader</b> like <b>dot.glslp</b> found in <i>"s
 # Usage
 
 All buttons are self explanatory, there are Menu, Rewind (If enable in RA settings), Slow Motion and Fast Forward buttons.
-There is a hidden button between A and B that simulate a simultaneous A+B keypress. 
+There is a hidden button between A and B to easily press both of them at the same time. 
 Another hidden button for taking screenshots is in the center of the gameplay screen.
 
 # Donation
