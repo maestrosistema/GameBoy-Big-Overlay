@@ -4,7 +4,7 @@
 
 ![My Image](ow.jpg)
 
-This is an updated version of my "Big" version GameBoy overlay for RetroArch I made back in 2017 (<a href="https://forums.libretro.com/t/gameboy-touch-overlay/12469">Libretro Forums</a>).
+This is an updated version of the "Big" version of my GameBoy overlay for RetroArch I made back in 2017 (<a href="https://forums.libretro.com/t/gameboy-touch-overlay/12469">Libretro Forums</a>).
 
 I've updated it for modern 21:9 (2400x1080) screen Android devices and added animation to all the buttons.
 
