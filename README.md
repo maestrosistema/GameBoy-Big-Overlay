@@ -64,7 +64,9 @@ I also reccomed using a <b>Video Shader</b> like <b>dot.glslp</b> found in <i>"s
 
 # Usage
 
-![My Image](usage.jpg)
+All buttons are self explanatory, there are Menu, Rewind (If enable in RA settings), Slow Motion and Fast Forward buttons.
+There is a hidden button between A and B that simulate a simultaneous A+B keypress. 
+Another hidden button for taking screenshots is in the center of the gameplay screen.
 
 # Donation
 If you like my work, please consider a small donation.
