@@ -70,7 +70,7 @@ There are Menu, Rewind (If enable in RA settings), Slow Motion and Fast Forward 
 
 Near the Fast Forward button there is a switch to change between Hold and Toggle mode. 
 
-On top of the screen there is a button to show or hide the save state options. In order: Save State, Decrease Slot, Increase Slot and Load State.
+In the top left of the screen there is a button to show or hide the save state options. In order: Save State, Decrease Slot, Increase Slot and Load State.
 
 There is a hidden button between A and B to easily press both of them at the same time.
 
