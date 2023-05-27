@@ -10,7 +10,7 @@ I've updated it for modern 21:9 (2400x1080) screen Android devices and added ani
 
 To Do List:
 - Remake GameBoy Color version
-- Make GameBoy Advance (For landscape) and GBA SP (For portrait) overlays
+- Make GBA SP (for portrait) overlay
 
 I'm open to suggestions!
 
