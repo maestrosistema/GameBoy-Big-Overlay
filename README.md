@@ -64,8 +64,16 @@ I also reccomed using a <b>Video Shader</b> like <b>dot.glslp</b> found in <i>"s
 
 # Usage
 
-All gameplay buttons (D-Pad, A, B, Start and Select) are self explanatory. There are Menu, Rewind (If enable in RA settings), Slow Motion and Fast Forward buttons. Near the Fast Forward button there is a switch to change between Hold and Toggle mode. On top of the screen there is a button to show or hide the save state options. In order are Save State, Decrease Slot, Increase Slot and Load State.
-There is a hidden button between A and B to easily press both of them at the same time. 
+All gameplay buttons (D-Pad, A, B, Start and Select) are self explanatory. 
+
+There are Menu, Rewind (If enable in RA settings), Slow Motion and Fast Forward buttons.
+
+Near the Fast Forward button there is a switch to change between Hold and Toggle mode. 
+
+On top of the screen there is a button to show or hide the save state options. In order: Save State, Decrease Slot, Increase Slot and Load State.
+
+There is a hidden button between A and B to easily press both of them at the same time.
+
 Another hidden button for taking screenshots is in the center of the gameplay screen.
 
 # Donation
