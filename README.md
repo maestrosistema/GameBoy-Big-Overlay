@@ -24,9 +24,9 @@ I'm open to suggestions!
 - Integer Scale <b>"OFF"</b>
 - Aspect Ratio <b>"Custom"</b>
 - Custom Aspect Ratio (X Position) <b>"0"</b>
-- Custom Aspect Ratio (Y Position) <b>"798"</b>
+- Custom Aspect Ratio (Y Position) <b>"825"</b>
 - Custom Aspect Ratio (Width) <b>"1080"</b>
-- Custom Aspect Ratio (Height) <b>"1008 (7x)"</b>
+- Custom Aspect Ratio (Height) <b>"972"</b>
 - Crop Overscan (Restart Required) <b>"ON"</b>
 
 <b>On-Screen Display -> On-Scren Overlay:</b>
