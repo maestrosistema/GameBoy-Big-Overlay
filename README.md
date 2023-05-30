@@ -25,7 +25,7 @@ I'm open to suggestions!
 - Aspect Ratio <b>"Custom"</b>
 - Custom Aspect Ratio (X Position) <b>"0"</b>
 - Custom Aspect Ratio (Y Position) <b>"798"</b>
-- Custom Aspect Ratio (Width) <b>"1120 (7x)"</b>
+- Custom Aspect Ratio (Width) <b>"1080"</b>
 - Custom Aspect Ratio (Height) <b>"1008 (7x)"</b>
 - Crop Overscan (Restart Required) <b>"ON"</b>
 
