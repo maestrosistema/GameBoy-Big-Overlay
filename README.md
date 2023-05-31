@@ -60,7 +60,7 @@ I also reccomed using a <b>Video Shader</b> like <b>dot.glslp</b> found in <i>"s
 
 ![My Image](usage.png)
 
-NOTE: Rewind and AI Service must be configured in RA settings to make them work in the overlay!
+<b>NOTE: Rewind and AI Service must be configured in RA settings to make them work in the overlay!</b>
 
 Touch the GameBoy (or the Libretro RetroArch logo if you use the alternative background) logo to make all function buttons invisible (they can stil be pressed), touch again to make them visible.
 
