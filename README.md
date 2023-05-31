@@ -58,17 +58,11 @@ I also reccomed using a <b>Video Shader</b> like <b>dot.glslp</b> found in <i>"s
 
 # Usage
 
-All gameplay buttons (D-Pad, A, B, Start and Select) are self explanatory. 
+![My Image](usage.png)
 
-There are Menu, Rewind (If enable in RA settings), Slow Motion and Fast Forward buttons.
+NOTE: Rewind and AI Service must be configured in RA settings to make them work in the overlay!
 
-Near the Fast Forward button there is a switch to change between Hold and Toggle mode. 
-
-In the top left of the screen there is a button to show or hide the save state options. In order: Save State, Decrease Slot, Increase Slot and Load State.
-
-There is a hidden button between A and B to easily press both of them at the same time.
-
-Another hidden button for taking screenshots is in the center of the gameplay screen.
+Touch the GameBoy (or the Libretro RetroArch logo if you use the alternative background) logo to make all function buttons invisible (they can stil be pressed), touch again to make them visible.
 
 # Donation
 If you like my work, please consider a small donation.
