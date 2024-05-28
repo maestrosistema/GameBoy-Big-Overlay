@@ -68,6 +68,7 @@ Touch the GameBoy (or the Libretro RetroArch logo if you use the alternative bac
 If you like my work, please consider a small donation.
 
 You can donate with <a href="https://paypal.me/maestrosistema?country.x=IT&locale.x=it_IT"><b>PayPal</b></a>.
+
 Thank You!
 
 # Special Thanks
